@@ -1,1 +1,2 @@
 openeuler/openeuler:20.03-lts-sp2
+--platform=linux/arm64
