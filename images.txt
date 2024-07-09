@@ -1,1 +1,5 @@
- --platform=linux/arm64 openeuler/openeuler:20.03-lts-sp2
+--platform=linux/arm64 openeuler/openeuler:20.03-lts-sp2
+--platform=linux/arm64 postgres:15
+--platform=linux/arm64 ubuntu/mysql:8.0-20.04_beta
+--platform=linux/arm64 redis:6.0
+--platform=linux/arm64 oceanbase/oceanbase-ce:latest
