@@ -1,4 +1,4 @@
 redis
 nginx
 elasticsearch:8.14.3
-kibana
+kibana:8.14.3
