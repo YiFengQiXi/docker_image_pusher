@@ -4,3 +4,4 @@ elasticsearch:8.14.3
 kibana:8.14.3
 jenkins/jenkins
 mysql
+rabbitmq
