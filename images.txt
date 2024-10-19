@@ -5,3 +5,4 @@ kibana:8.14.3
 jenkins/jenkins
 mysql
 rabbitmq
+minio/minio
