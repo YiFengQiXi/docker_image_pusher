@@ -7,3 +7,4 @@ mysql
 rabbitmq
 minio/minio
 apache/rocketmq:5.3.1
+portainer/portainer-ce:lts
